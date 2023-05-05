@@ -2,5 +2,5 @@ A simple template for web extensions with parcel.js and typescript. Add-on from 
 
 ```
 npm init
-npm install --save-dev parcel parcel-bundler web-ext parcel-plugin-web-ext-tool @parcel/config-webextension typescript
+npm install --save-dev parcel web-ext @parcel/config-webextension typescript
 ```
